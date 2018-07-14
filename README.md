@@ -1,6 +1,4 @@
-# Railsdm 2018 day 3 extreme
-
-TODO: スライドの説明
+# Railsdm 2018 day 3 extremel
 
 ## 作者向け
 
