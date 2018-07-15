@@ -1,4 +1,4 @@
-# Railsdm 2018 day 3 extremel
+# Railsdm 2018 day 3 extreme
 
 ## 作者向け
 
